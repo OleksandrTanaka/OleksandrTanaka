@@ -5,9 +5,8 @@ Thanks for your reading.
 I am Alexander Guzenko, a **SENIOR FULL-STACK DEVELOPER** , from Ukraine.
 
 As a Front-end & Full Stack developer, I am currently looking for a new job.
-Success is my first guide to life and business.
+# Success is my first guide to life and business.
 
-web developmentc
 As a front-end developer, I develop pixel-perfect and full-screen responsive pages with state-of-the-art UI/UX components and colorful, dynamic animations.
 Build modular component-based functionality across the front end of your web application and leverage current coding practices such as component architectures, functional programming patterns that focus on code quality.
 
