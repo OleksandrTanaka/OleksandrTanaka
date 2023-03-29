@@ -2,7 +2,7 @@ Hi, everyone👋
 
 Thanks for your reading.
 
-I am Alexander Guzenko, a **SENIOR FULL-STACK DEVELOPER** , from Ukraine.
+I am Oleksandr Tanaka, a **SENIOR FULL-STACK DEVELOPER** , from Ukraine.
 
 As a Front-end & Full Stack developer, I am currently looking for a new job.
 # Success is my first guide to life and business.
